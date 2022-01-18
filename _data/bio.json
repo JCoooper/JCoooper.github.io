@@ -1,114 +1,115 @@
 {
-  "basics": {
-    "name": "Jordan Cooper",
-    "label": "Shidler Undergraduate",
-    "picture": "https://JCoooper.github.io/images/headshot.png",
-    "email": "jcooper2@hawaii.edu",
-    "phone": "",
-    "website": "https://JCoooper.github.io",
-    "summary": "I am studying for a B.A. in MIS in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": {
-      "address": "5251 Poola",
-      "postalCode": "96821",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Jordan Cooper",
+      "label":"Shidler Undergraduate",
+      "picture":"https://JCoooper.github.io/images/headshot.png",
+      "email":"jcooper2@hawaii.edu",
+      "phone":"",
+      "website":"https://JCoooper.github.io",
+      "summary":"I am studying for a B.A. in MIS in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+      "location":{
+         "address":"5251 Poola",
+         "postalCode":"96821",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"JCoooper",
+            "url":"http://github.com/JCoooper"
+         },
+         {
+            "network":"instagram",
+            "username":"jxcooper_",
+            "url":"http://instagram.com/jxcooper_"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "JCoooper",
-        "url": "http://github.com/JCoooper"
+         "name":"Programming",
+         "keywords":[
+            "IT",
+            "Raspberry Pi"
+         ]
       },
       {
-        "network": "instagram",
-        "username": "jxcooper_",
-        "url": "http://instagram.com/jxcooper_"
+         "name":"Business Management",
+         "keywords":[
+            "MIS Degree"
+         ]
+      },
+      {
+         "name":"IT",
+         "keywords":[
+            "Fixing Issues",
+            "Troubleshooting"
+         ]
+      },
+      {
+         "name":"Application Development",
+         "keywords":[
+            "Career",
+            "Code"
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Programming",
-      "keywords": [
-        "IT",
-        "Raspberry Pi",
-      ]
-    },
-    {
-      "name": "Business Management",
-      "keywords": [
-        "MIS Degree"
-      ]
-    },
-    {
-      "name": "IT",
-      "keywords": [
-        "Fixing Issues",
-        "Troubleshooting"
-      ]
-    },
-    {
-      "name": "Application Development",
-      "keywords": [
-        "Career",
-        "Code"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "Intermediate",
-      "keywords": [
-        "C++",
-        "Java",
-        "Batch",
-        "HTML/CSS"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "Intermediate",
-      "keywords": [
-        "MacOS",
-        "Windows 8-11",
-        "Git/GitHub",
-        "Eclipse",
-        "VScode"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2023)",
-      "studyType": "B.A.",
-      "startDate": "2019-08-10",
-      "endDate": "Present",
-      "gpa": "3.0",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Sullivan Family of Companies",
-      "position": "IT Specialist",
-      "website": "",
-      "startDate": "2021-04-14",
-      "endDate": "Present",
-      "summary": "I work to resolve any tech related issues within the company. This can be from hardware, in store and at corporate level, and software issues in store and at the corporate level.",
-      "highlights": [
-        "Fix hardware related issues",
-        "Support the productivity of company systems"
-      ]
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"Intermediate",
+         "keywords":[
+            "C++",
+            "Java",
+            "Batch",
+            "HTML/CSS"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"Intermediate",
+         "keywords":[
+            "MacOS",
+            "Windows 8-11",
+            "Git/GitHub",
+            "Eclipse",
+            "VScode"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2023)",
+         "studyType":"B.A.",
+         "startDate":"2019-08-10",
+         "endDate":"Present",
+         "gpa":"3.0",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Sullivan Family of Companies",
+         "position":"IT Specialist",
+         "website":"",
+         "startDate":"2021-04-14",
+         "endDate":"Present",
+         "summary":"I work to resolve any tech related issues within the company. This can be from hardware, in store and at corporate level, and software issues in store and at the corporate level.",
+         "highlights":[
+            "Fix hardware related issues",
+            "Support the productivity of company systems"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
