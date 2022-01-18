@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jordan Cooper",
     "label": "Student",
-    "picture": "https://techfolios.github.io/images/IMG_8737.png",
+    "picture": "https://JCoooper.github.io/images/IMG_8737.png",
     "email": "jcooper2@hawaii.edu",
     "phone": "",
     "website": "https://JCoooper.github.io",
@@ -36,9 +36,9 @@
       ]
     },
     {
-      "name": "Crypto",
+      "name": "Business Management",
       "keywords": [
-        "Bitcoin"
+        "MIS"
       ]
     },
     {
@@ -67,6 +67,8 @@
         "MacOS",
         "Windows 8-11",
         "Git/GitHub",
+        "Eclipse",
+        "VScode"
       ]
     }
   ],
