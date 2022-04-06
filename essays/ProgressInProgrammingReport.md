@@ -5,7 +5,6 @@ title: Progress in Programming Report
 date: 2021-04-05
 labels:
   - MIS Career
-  - Degree
   - javascript
 ---
 
