@@ -6,6 +6,7 @@ date: 2021-04-05
 labels:
   - MIS Career
   - Degree
+  - javascript
 ---
 
 1. My programming skills have greatly improved in the following ways:
