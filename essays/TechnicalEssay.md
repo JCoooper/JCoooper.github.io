@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Performing WODs Technical Essay
-date: 2022-02-015
+date: 2022-02-15
 labels:
   - WOD
   - Degree
