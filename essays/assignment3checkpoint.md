@@ -31,3 +31,5 @@ I am not working with partner unfortunately due to it being a little too late to
 6. How are you approaching Assignment 3 differently than Assignment 2?
 	
   I am definitely starting earlier and i will be using techniques i have learned in the past like writing pseudo code of how i want things done and lay out the order and then filing in the code later.
+
+Link to screen video: https://drive.google.com/file/d/1klr6TZ6b0txTV0yGHbbRrK4HgdQEsXo7/view?usp=sharing
