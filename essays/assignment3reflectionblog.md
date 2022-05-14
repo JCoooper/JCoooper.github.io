@@ -9,7 +9,7 @@ labels:
   - Assignment 3
 ---
 
-1. Briefly describe your system (e.g. A store selling Pokemon game cards)???
+1. Briefly describe your system (e.g. A store selling Pokemon game cards)
 My site is a store that sells different types of jewelry. We currently have diamond, gold, and pearl items for sale.
 
 2. Any notable shortcomings, bugs, problems, or additional features not implemented?
